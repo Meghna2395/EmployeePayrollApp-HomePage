@@ -26,7 +26,7 @@ const createInnerHtml = () => {
         
    </tr>
      `;
-    document.querySelector('#table-display').innerHTML = innerHtml;
+    document.querySelector('#table-display').innerHTML=innerHtml;
 
 
 }
